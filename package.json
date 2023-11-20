@@ -1,0 +1,22 @@
+{
+  "name": "data-structure-algorithms",
+  "version": "1.0.0",
+  "description": "A repository for Data Structure and Algorithms in JavaScript. Practice makes perfect",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerry-vrabel-development/data-structure-algorithms-repository.git"
+  },
+  "author": "jv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerry-vrabel-development/data-structure-algorithms-repository/issues"
+  },
+  "homepage": "https://github.com/jerry-vrabel-development/data-structure-algorithms-repository#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
