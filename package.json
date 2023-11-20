@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jerry-vrabel-development/data-structure-algorithms-repository#readme",
   "devDependencies": {
+    "@types/jest": "^29.5.8",
     "jest": "^29.7.0"
   }
 }
